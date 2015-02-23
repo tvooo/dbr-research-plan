@@ -1,0 +1,9 @@
+template: tvooo-article
+abstract: false
+bibtex: false
+engine: xelatex
+document:
+  author: Tim von Oldenburg
+  date: \today
+  title: Research Plan
+  subtitle: Internet of Bikes and People (IOBAP)
