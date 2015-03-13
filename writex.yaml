@@ -1,6 +1,6 @@
 template: tvooo-article
 abstract: false
-bibtex: false
+bibtex: true
 engine: xelatex
 document:
   author: Tim von Oldenburg
