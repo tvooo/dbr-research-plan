@@ -99,3 +99,16 @@ the view from the saddle
 sire
 to capture “fleeting, ephemeral and often embodied and sensory aspects
 of movement” (Spinney 2011, 162)
+
+Urban public space is the single most important element in
+establishing a city’s livability...When community members frequently
+pass through a traffic free urban space running errands, going shopping, going to work or school, they recognize other frequent
+users of the space, and exchange greetings, which in time develop
+into conversations. Spontaneous social contacts are the seeds from
+which sense of community evolves. (1995: 25)
+
+Since the majority of social interactions are indirect, Goffman’s account
+means this entire negotiation frequently happens tacitly. Thus, the
+majority of social interactions for bicyclists happen indirectly. This
+means bicycle facilities that foster social interaction should be designed
+for indirect, non-verbal social interactions. - Cromwell
