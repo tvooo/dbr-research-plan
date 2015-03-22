@@ -84,37 +84,20 @@ Wie war das mit indirect und direct interaction?
 
 # Methodology
 
-<!-- > This section describes the overarching methodological aspect of the project.
-> As such, it proposes methods for field studies or other relevant data collection, how design based experiments can be performed, criteria for evaluation and ethical considerations.
-> It is highly recommended to build your methodological arguments from your research questions or knowledge interests: if this is what I want to accomplish in terms of knowledge production, how can I proceed to reach the goal? -->
+There are two factors are of outstanding importance for this research project: sociality and embodiment. They both afford certain methodological approaches, which are described in this section.
 
-Two factors are of outstanding importance for this research project: sociality and embodiment. They suggest a methodology that is grounded in participatory design, and .
-As my research focuses on everyday cycling, it is important to work with everyday cyclists, commuters mainly.
+Much of the existing literature listed in the previous section is grounded in ethnographic studies. While I can make use of these, I have to pay attention to the fact that bicycling is cultural and social behaviour is depending on context, which is why I will have to do ethnographic studies myself in Malmö. Specifically, these studies can be carried out in two different ways. One is to observe cyclists and their behaviour *in situ*, using recording equipment such as an action camera (see also the pilot experiment in section \ref{pilot-experiment}), or simply by writing down observations. The other way is to engage actively with bicyclists through surveys, interviews, and workshops.
 
-While an ethnographic study might help to describe the phenomenon at hand, it is not sufficient to provide complex accounts 
+Bicycling is a highly embodied activity, carried out with the whole body and experienced with all our senses. As such it affords a performative approach to design. I plan to work with bodystorming in order to explore the design space, as well as with role-play and experience prototyping in order to quickly prototype any ideas that would otherwise require random encounters with many cyclists on the road. 
 
-One method that cristallizes from these prerequisites is *bodystorming*.
-
-
-To quickly prototype any ideas that would require random encounters with many cyclists on the road, 
-
-* Workshops
-* Bodystorming - group storming
-* design games
-
-Observation: go and observe bycicle-heavy roads; or go full ethnographic, and go into traffic, maybe following others
-
-Role play: prototype bike traffic with multiple people by means of role play. Not even in real traffic. Just 'play'.
-
-Ideen:
-
-1. Ein Bumper-Sticker, oder eine App, oder eine Weste o.a. die sagt "Ride with me, I'm social"
+While in the beginning the work will be rather explorative, I plan on working closely with bicyclists in later stages of the project in a *participatory design* practice. This way I ensure that my work will stay relevant to the cycling community in Malmö.
 
 # Collaboration
 
 <!-- > Here all stakeholders are described, including their role in the project. Included are issues of recruitment of participants and communication channels that will be used. Names and positions of key people should be included. -->
 
 
+As my research focuses on everyday cycling, it is important to work with everyday cyclists, commuters mainly.
 
 * Sigma Connectivity
 * IOTAP - ECOS - Jonas Lowgren
