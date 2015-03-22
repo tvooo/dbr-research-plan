@@ -112,3 +112,20 @@ means this entire negotiation frequently happens tacitly. Thus, the
 majority of social interactions for bicyclists happen indirectly. This
 means bicycle facilities that foster social interaction should be designed
 for indirect, non-verbal social interactions. - Cromwell
+
+
+# talking to pelle
+
+radio station, ask for gopro, reference to pelle ehn
+
+janet cardiff
+slow mo, flaneur interaction
+
+there WILL be the reflection on the everyday bicycling
+cmp with slow food/fast food movement
+how can we build on local traditions, local networks, redcue the resources that are consumed, more healthy
+the flaneur
+
+put my feet down
+
+Janet Cardiff (sound)

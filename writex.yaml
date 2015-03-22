@@ -1,5 +1,6 @@
 template: tvooo-article
 abstract: false
+titlePage: title.tex 
 bibtex: true
 engine: xelatex
 document:
