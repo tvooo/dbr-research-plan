@@ -1,18 +1,18 @@
 # Research plan summary
 
-<!-- > An overall research plan summary. Write this section after you have completed the rest of the document. Summarize your approach as concisely as possible so that readers can quickly understand the fundamentals of your plan. The summary can be seen as an equivalent to the paper/article abstract. -->
+The research endeavour proposed in this document aims to explore a phenomenon within contemporary urban bicycling. This phenomenon, *random vélomobile formations-in-action*, describes a serendipitous encounter of bicyclists who happen to ride at a similar pace, in the same direction, for a part of their journey.
+
+Bicycling is, especially for purposes of transportation rather than recreation and leisure, often considered a solitary activity. But social interaction takes place between cyclists and other road users as much as it does between pedestrians. Those interactions are most often indirect and depend highly on culture and the urban environment. My research will explore design openings within the above mentioned *random formations*, focusing on both opportunities for social interactions as well as the representation of the social cycling experience.
 
 # Introduction and background
 
-Bicycling is oftentimes considered to be a very solitary activity. But even when we are not riding intentionally in a group--be it for a bicycle tour or as a group commute--bicycling can still be a social experience. It does not take place in isolation, but "in complex choreography with other multi-modal road users" [@noid].
+Bicycling is often considered to be a very solitary activity. But even when we are not riding intentionally in a group --- be it for a bicycle tour or as a group commute --- bicycling can still be a social experience, as it does not take place in isolation, but "in complex choreography with other multi-modal road users" [@outthere].
 
-Compared to other modes of transportation, bicycling offers a unique combination of experiential differences. Bicycling happens 'out there', outside of an enclosed room, which allows us to use all our senses and experience the trip and the environment with our whole body. This allows for complex interaction which would not be possible eg within a car. At the same time, bicycling happens at a much higher pace than walking, which limits the range of possible interactions somewhat.
+Compared to other modes of transportation, bicycling offers a unique combination of experiential differences. Bicycling happens 'out there', outside of an enclosed room, which allows us to use all our senses and experience the trip and the environment with our whole body. This allows for complex interaction which would not be possible e.g. within a car. At the same time, bicycling happens at a much higher pace than walking, which limits the range of possible interactions somewhat.
 
-The importance of pedestrians for the urban landscape has already been recognized a long time ago.
+The importance of bicyclists for the socio-urban landscape has been recognized by city planners and social scientists alike. Researchers like Katrina Jungnickel, Rachel Aldred, Paul McIlvenny and Justin Spinney focus on bicycling as a social practice in much of their work. But bicycling communities themselves are starting to put more emphasis on being social as well.
 
-- bike is one of the most simple transportation devices, hasnt changed much in recent years; don't put too much technology in, don't change the being of the bike
-
-Lately, the role of bicycling as a social activity has been recognized by bicyclists as well. The *Slow Roll* movement ^[See [http://www.slowroll.bike/](http://www.slowroll.bike/)], in analogy to the *Slow Food* movement, promotes ...
+The *Slow Roll* movement ^[See [http://www.slowroll.bike/](http://www.slowroll.bike/)], in analogy to the *Slow Food* movement, promotes a conscious bicycling experience. Bicycling communities meet to ride a tour through their city, along neighbourhoods and points of interest. 'Slow Roll' means to ride at a slow pace, allowing for appreciation of the cycling experience and social interaction.
 
 \begin{figure*}[!ht]
   \centering
@@ -21,17 +21,14 @@ Lately, the role of bicycling as a social activity has been recognized by bicycl
   \caption{A Slow Roll bike tour on break. Picture by Slow Roll Detroit.}
 \end{figure*}
 
-Similarly, looking for the hashtag `#CoffeeOutside` on social media like Twitter and Instagram reveals meetups all over the world.
+A less well-defined contemporary phenomenon can be found under the hashtag `#CoffeeOutside` on social media like Twitter and Instagram. On their way cycling to work, people in cities all over the world stop and meet to have a coffee outside, together. While this movement has grown out of coffee enthusiasm, many arrive to the meet-ups by bike, and the notion of togetherness and spending time outside overlap deeply into bicycling culture.
+
+With this new appreciation for social bicycling in mind, I aim to explore a phenomenon that I call *random vélomobile formations-in-action*. 
 
 While some research has happened very close to the project, namely @esbjornsson on motorcycles, @mcilvenny on direct social interaction (and *intentional* bike formations), and @cromwell from an urban perspective, nobody seemed yet to have touched the possibilities the Internet of Things might have for this.
 
-<!-- > Here you should give a contextual background and setting of the stage of the research project. Facts and references can be used to show that the project is;
-    - Relevant
-    - Not already over-researched - Feasible
-    - Ethically defensible
-> In doing so, the introduction introduces the problem domain and explicates why the research project is relevant. It gives a brief overview of the field, which is expanded later in the section “Literature overview and related work”. If references are used they should be cited correctly. It is suggested that you also address why and for whom the project is relevant.
-> The introduction should include a first presentation of external stakeholders (if any). -->
 # Research focus
+
 <!-- > Given the elaborated background, this section should lead on to a concise formulation of the research question or knowledge interest that will be the focus for the project.
 > A way to structure the problem formulation is to write a short section on the purpose of the study, which is followed by a section on objectives for the study, i.e. why the study is conducted and possible knowledge contributions of the project. The section can list different objectives, points of interest or sub- questions to be explored.
 > The above amounts to a hopefully clear research focus, which is finally distilled into a research question – and note that even highly explorative research plans can be framed in research questions. -->
@@ -55,23 +52,28 @@ Objectives:
 
 Not much has been written on cycling as a social experience, and most of it
 in the humanities (the social sciences, especially). While there also exist
-many studies in the area of traffic research and urban planning, most of it
-seems irrelevant to my research. Lastly, there is work in the areas of architecture
+many studies in the area of traffic research and urban planning, most of them
+seem irrelevant to my research. Lastly, there is work in the areas of architecture
 and design that touches on the design space I am interested in.
 
 ## A framework for social interaction and meaning-making in a velomobile environment 
 
-Marc Auge coined the term 'non-place' and uses it to describe mostly spaces of transition, for example bus stops and trains. He did not account a lot of meaning to non-places.
+Marc Auge coined the term 'nscon-place' and uses it to describe mostly spaces of transition and mobility, for example bus stops and trains. They are places "where interactions are structured by rules not defined by the people in them" [@spinney2007]. Auge argues that "we do not find these spaces meaningful", due to their nature of fleetingness, temporality and ephemerality. Spinney opposes this assumption with respect to bicycling, as it is a  and offers an account of meaningful embodied experiences of non-place through his 
 
-TODO: read spinney and insert here [@spinney]
+TODO: read spinney and insert here [@spinney2007]
 
-* McIlvenny, Jensen 'mobile with'
+While Spinney focuses on the solitary embodied experience of bicycling, @mcilvenny describes formations that bicyclists can assume in order to sustain a conversation. His work is based on Jensen's [-@jensen] 'mobile with' --- an extension of Eugene Goffman's concept of 'single' and 'with' into the realm of mobility. Jensen argues that “in the mundane and
+ordinary everyday life we make multiple ‘temporary congregations’ as we are slipping in and out
+of different ‘mobile withs’ ... ‘Mobile withs’ might be exemplified by groups of recreational
+runners or cyclists” [-@jensen, p. 341]. McIlvenny captures "different vélomobile formations-in-action" using video recordings and . His notion of *vélomobile formations-in-action* build a solid base for the description of temporary bicycling formations, in the following only 
+ 
 
-mobile with + temporary congregation + formation = temporary formation
+'formation' is thus also the term being used in this document to describe a 'group' or 'flock' of bicyclists on the road.
 
-TODO: read mcilvenny and insert here: with; mobile-with [@mcilvenny]
+Within this framework of 'mobile with', indirect interaction and formations exists a design space.
 
-* Kat Jungnickel, Rachel Aldred
+
+* TODO: Kat Jungnickel, Rachel Aldred
 
 Wie war das mit indirect und direct interaction?
 
@@ -82,30 +84,16 @@ Wie war das mit indirect und direct interaction?
 * Esbjörnsson et al Motorcycling & social interaction @esbjornsson
 * Cromwell und sein social act of bicycling @cromwell
 
-> Jensen (2010)
-> proposes that we study what he calls the “mobile with.” Jensen argues that “in the mundane and
-> ordinary everyday life we make multiple ‘temporary congregations’ as we are slipping in and out
-> of different ‘mobile withs’ . . . ‘Mobile withs’ might be exemplified by groups of recreational
-> runners or cyclists [italics added]” (p. 341).
-
-> In regard to interactional formations, Kendon (1990b, p. 209) describes how “people often
-> group themselves into clusters, lines, or circles, or into various other kinds of patterns. These
-> patterns may be highly fluid or they may be relatively sustained. When such a pattern is sustained
-> it will be referred to as a formation.”
-
-> Once moving together, co-riders need to sustain a shared pace, otherwise co-presence cannot
-> be maintained, the mobile formation dissolves, and talk or interaction is no longer possible. As
-> we shall see later, formations can be stretched without breaking, and thus interactions have an
-> elasticity that requires co-riders to attend to their mobility as and with their talk-in-motion.
-
 # Methodology
 
 <!-- > This section describes the overarching methodological aspect of the project.
 > As such, it proposes methods for field studies or other relevant data collection, how design based experiments can be performed, criteria for evaluation and ethical considerations.
 > It is highly recommended to build your methodological arguments from your research questions or knowledge interests: if this is what I want to accomplish in terms of knowledge production, how can I proceed to reach the goal? -->
 
-Two factors are of the utmost importance for this research project: sociality and embodiment. They suggest a methodology that is grounded in co-design and .
+Two factors are of outstanding importance for this research project: sociality and embodiment. They suggest a methodology that is grounded in participatory design, and .
 As my research focuses on everyday cycling, it is important to work with everyday cyclists, commuters mainly.
+
+While an ethnographic study might help to describe the phenomenon at hand, it is not sufficient to provide complex accounts 
 
 One method that cristallizes from these prerequisites is *bodystorming*.
 
