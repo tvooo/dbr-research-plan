@@ -12,7 +12,7 @@ Compared to other modes of transportation, bicycling offers a unique combination
 
 The importance of bicyclists for the socio-urban landscape has been recognized by city planners and social scientists alike. Researchers like Katrina Jungnickel, Rachel Aldred, Paul McIlvenny and Justin Spinney focus on bicycling as a social practice in much of their work. But bicycling communities themselves are starting to put more emphasis on being social as well.
 
-The *Slow Roll* movement ^[See [http://www.slowroll.bike/](http://www.slowroll.bike/)], in analogy to the *Slow Food* movement, promotes a conscious bicycling experience. Bicycling communities meet to ride a tour through their city, along neighbourhoods and points of interest. 'Slow Roll' means to ride at a slow pace, allowing for appreciation of the cycling experience and social interaction.
+The *Slow Roll* movement ^[See [http://www.slowroll.bike/](http://www.slowroll.bike/)], in analogy to the *Slow Food* movement, promotes a more conscious bicycling experience. Bicycling communities meet to ride a tour through their city, along neighbourhoods and points of interest. 'Slow Roll' means to ride at a slow pace, allowing for appreciation of the cycling experience and social interaction. *Slow Roll* was started in Detroit, MI, USA in 2010 and has since spread over 9 other cities. It is safe to assume that many more informal meet-ups of this kind are taking place in many parts of the world.
 
 \begin{figure*}[!ht]
   \centering
@@ -21,11 +21,9 @@ The *Slow Roll* movement ^[See [http://www.slowroll.bike/](http://www.slowroll.b
   \caption{A Slow Roll bike tour on break. Picture by Slow Roll Detroit.}
 \end{figure*}
 
-A less well-defined contemporary phenomenon can be found under the hashtag `#CoffeeOutside` on social media like Twitter and Instagram. On their way cycling to work, people in cities all over the world stop and meet to have a coffee outside, together. While this movement has grown out of coffee enthusiasm, many arrive to the meet-ups by bike, and the notion of togetherness and spending time outside overlap deeply into bicycling culture.
+A less well-defined contemporary movement can be found under the hashtag `#CoffeeOutside` on social media like Twitter and Instagram. On their way cycling to work, people in cities all over the world stop and meet to have a coffee outside, together. While this movement has grown out of coffee enthusiasm, many arrive to the meet-ups by bike, and the notion of togetherness and spending time outside overlap deeply into bicycling culture.
 
-With this new appreciation for social bicycling in mind, I aim to explore a phenomenon that I call *random vélomobile formations-in-action*. 
-
-While some research has happened very close to the project, namely @esbjornsson on motorcycles, @mcilvenny on direct social interaction (and *intentional* bike formations), and @cromwell from an urban perspective, nobody seemed yet to have touched the possibilities the Internet of Things might have for this.
+With this new appreciation for social bicycling in mind, I aim to explore a phenomenon that I call *random vélomobile formations-in-action*, which will be described further in the following section. Some research has happened touching this phenomenon, namely @esbjornsson on encounters when motorcycling, @mcilvenny on *intentional* rather than *random* vélomobile formations-in-action, and @cromwell with an urban planning approach to indirect social interaction on bikes. Yet so far no one has explored the interaction design space encompassing this phenomenon.
 
 # Research focus
 
