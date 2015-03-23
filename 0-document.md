@@ -100,7 +100,7 @@ With this research, I aim to contribute to the already existing body of knowledg
 During my research I will carry out design experiments. Some of these experiments might yield artefacts that encourage or make use of social interaction in random vélomobile formations-in-action. These artefacts might be relevant to external communities, namely the bicycling community of Malmö (and maybe beyond). The artefacts may stand for themselves, or act to enhance an existing bicycling culture, such as built by the Slow Roll group in Malmö.
 Other experiments might lead to less materialised design knowledge. This design knowledge will compose the final thesis document. I expect to learn how to efficiently prototype in a vélomobile environment that is beyond any designer's control. I also expect to design a method that allows me to represent and convey the phenomenon at hand to others. This method will most certainly make use of videography, but might be multi-modal as well.
 
-# Activity plan, schedule
+# Activity plan
 
 Design is an iterative process
 With my background in software engineering, I have adapted an *agile* mindset of project management, along with methods like Kanban and SCRUM. This design research project is, however, quite different from a typical software engineering project. All I want to carry over from the agile mindset to this project is the notion of *embracing change*, as I will constantly have to reflect on the current state of the project, and the terminology of *sprints*. A sprint is, simply put, an arbitrary period of time at which beginning you define what is to be done within the spring, and at which ending you look what you have achieved. For this project I will plan with week-long sprints.
@@ -179,17 +179,11 @@ Both videos start with a solo ride and the full 30 FPS. Thus, the transitions be
 
 # Potential risks
 
-<!-- > Potential risks area often overlooked when setting up research projects. Try to calculate potential risks in the project and if possible reflect on corrective actions for overcoming the identified risks. -->
-<!--
-The most obvious risk in this project is presented by the time constraints of about eight weeks. 
+The most obvious risk in this project is presented by the time constraint of about eight weeks (sprints 1--8, as described in section \ref{activity-plan}). This is a tight schedule for a Master's level research work, but it is a risk that can be --- at least partially --- be planned for. In the activity plan (Figure 2) I assigned three sprints for the carrying out of experiments. If experiments run slightly longer, their results can still be included in the final report. If they run *significantly* longer, however, as may be the case with community projects that have to be established over time, it might be worth to either discard them or extend the project runtime into the summer.
 
-- wegen der kurzen zeit: kontakte aufbauen dauert lang, events finden nicht statt
-- niemand ist interessiert in das phenomenon
-- in malmo ist die kultur schwierig und nix laesst sich implementieren
+Another potential risk is that the Malmö bicycling culture might be hard to influence or disrupt. If the community is not open for new untertakings, it might hinder the design process and force me to rely on ethnographic and methodological work only.
 
-- People do not like to be in a formation with strangers
-- they do not like to interact with strangers
-- tempCycForm is not a thing, or is hard to design for
-- might have to shift focus to intentional cycling formations, then more referring to Paul McIlvenny
-- might have to shift focus to other encounters, such as 'meeting' or 'passing', more looking into Esbjörnsson et al.
--->
+While most Swedes speak English, the language difference between me and Malmö's cyclists can be seen as a potential difficulty, too.
+
+Finally, there is the risk that no feasible design openings can be found for random vélomobile formations-in-action. This is rather unlikely, but in this case I will have to either reframe the research question either to a slightly different (possibly neighbouring) phenomenon, or open my research up to more abstract questions. 
+
