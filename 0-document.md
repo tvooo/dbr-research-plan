@@ -1,6 +1,6 @@
-# Research plan summary
+# Summary
 
-The research endeavour proposed in this document aims to explore a phenomenon within contemporary urban bicycling. This phenomenon, *random vélomobile formations-in-action*, describes a serendipitous encounter of bicyclists who happen to ride at a similar pace, in the same direction, for a part of their journey.
+The research endeavour proposed in this document aims to explore a phenomenon within contemporary urban bicycling. This phenomenon, dubbed *random vélomobile formations-in-action*, describes a serendipitous encounter of bicyclists who happen to ride at a similar pace, in the same direction, for a part of their journey.
 
 Bicycling is, especially for purposes of transportation rather than recreation and leisure, often considered a solitary activity. But social interaction takes place between cyclists and other road users as much as it does between pedestrians. Those interactions are most often indirect and depend highly on culture and the urban environment. My research will explore design openings within the above mentioned *random formations*, focusing on both opportunities for social interactions as well as the representation of the social cycling experience.
 
@@ -27,60 +27,53 @@ With this new appreciation for social bicycling in mind, I aim to explore a phen
 
 # Research focus
 
-<!-- > Given the elaborated background, this section should lead on to a concise formulation of the research question or knowledge interest that will be the focus for the project.
-> A way to structure the problem formulation is to write a short section on the purpose of the study, which is followed by a section on objectives for the study, i.e. why the study is conducted and possible knowledge contributions of the project. The section can list different objectives, points of interest or sub- questions to be explored.
-> The above amounts to a hopefully clear research focus, which is finally distilled into a research question – and note that even highly explorative research plans can be framed in research questions. -->
+In focus of my research work are *random vélomobile formations-in-action* in urban bicycle traffic. Paul McIlvenny describes vélomobile formations-in-action as "specific arrangements of bodies on
+bikes and configurations of a 'vélomobile with'" [-@mcilvenny]. His work focuses on two or more people on bikes *intentionally* riding together and trying to maintain a conversation. In *random* vélomobile formations-in-action, however, this intentionality is missing. They describe temporary arrangements of bikes and people who are most likely strangers, and just happen to ride together at the same time, at a similar pace, for part of their journey. This phenomenon occurs frequently in urban bicycle traffic, yet we seldom make note of it. The following narrative describes an instance of the phenomenon:
 
-In focus of my research work are what can be described as *temporary formations* in urban bicycle traffic. My goal is to describe 
+> Johan's commute leads him from Rönneholm in Malmö to the city's university in the western harbour. Early in this journey, he passes in front of the city library on Kung Oscars väg and turns left onto Slottsgatan, immediately passing Fersens bro, a slightly ascending canal bridge. While taking the left turn, Johan slips in next to Marie, who was approaching from his right. At this spot, the bike lane is wide enough for the two to ride next to each other. As they are ascending Fersens bro, they maintain more or less the same pace and stay next to each other. After the climax, the bike lane narrows down. Johan sprints forward in order to slip in the front of Marie, making space for oncoming cyclists riding into the opposite direction. They continue to ride in a formation (in line) until Marie turns right towards Stortorget.
 
-- How can we make use of the phenomenon 'temporary cyclist formation' in urban traffic (maybe using IoT technologies)
-- How can the cycling experience be properly conveyed/represented? focusing on 'temp cyc form' as well?
+During their time on Fersens bro and after, Johan and Marie are in a 'vélomobile with' and form a random vélomobile formation-in-action. They negotiate their formation with respect to each others cycling abilities and the current environment, without having met each other before.
 
-Objectives:
+My research will be an exploration into the possibilities this phenomenon affords and can be distilled into two questions:
 
-1. To describe the phenomenon tempCycForm and its characteristics
-2. Explore social interaction patterns within that phenomenon
-3. Explore design openings that make use of it
-4. Design for better/nicer commutes with respect fo tempCycForm
+1. How can we design for social interaction to take place during random encounters of bicyclists in vélomobile formations-in-action? How can the randomness be turned into serendipity?
+2. How can the experience of these social encounters be properly represented?
+
+These question can be approached using the following objectives:
+
+1. Describe the phenomenon at hand using both ethnographic as well as phenomenological accounts
+2. Explore design openings that exploit the phenomenon
+3. Create and execute design experiments that raise interaction design knowledge regarding the phenomenon 
 
 # Literature overview and related work
 
 <!-- > This section gives a critical summary and assessment of the range of existing research within the chosen problem domain. As such, the section positions the project towards the established field of research in the interaction design community (and/or related fields). The section can be seen as a draft for what literature that will be used, arguing for the relevance of that literature. Obviously you will not have done all reading and analysis before the project starts; consider this section to be a first sketch of the literature survey in your final report.
 > In view of the proposed research-through-design approach, an equally important part of the section refers to interesting design exemplars and related work performed by others. -->
 
-Not much has been written on cycling as a social experience, and most of it
-in the humanities (the social sciences, especially). While there also exist
+Bicycling as a social experience has been covered by the humanities, especially by the social sciences.
+While there also exist
 many studies in the area of traffic research and urban planning, most of them
 seem irrelevant to my research. Lastly, there is work in the areas of architecture
-and design that touches on the design space I am interested in.
+and design that touches on the design space that encompasses random vélomobile formations-in-action.
+ 
+## A framework for social interaction and meaning-making in a vélomobile environment
 
-## A framework for social interaction and meaning-making in a velomobile environment 
+Marc Augé coined the term 'non-place' and used it to describe spaces of transition and mobility, for example bus stops and motorways. They are places "where interactions are structured by rules not defined by the people in them" [@spinney2007]. Augé argues that "we do not find these spaces meaningful", due to their nature of fleetingness, temporality and ephemerality. Spinney opposes this assumption with respect to bicycling, as cyclists engage with their socio-urban environment in an embodied and sensory way. He offers an account of meaningful embodied experiences of non-place by means of a narrative of an imaginary bicycle ride through London.
 
-Marc Auge coined the term 'nscon-place' and uses it to describe mostly spaces of transition and mobility, for example bus stops and trains. They are places "where interactions are structured by rules not defined by the people in them" [@spinney2007]. Auge argues that "we do not find these spaces meaningful", due to their nature of fleetingness, temporality and ephemerality. Spinney opposes this assumption with respect to bicycling, as it is a  and offers an account of meaningful embodied experiences of non-place through his 
-
-TODO: read spinney and insert here [@spinney2007]
-
-While Spinney focuses on the solitary embodied experience of bicycling, @mcilvenny describes formations that bicyclists can assume in order to sustain a conversation. His work is based on Jensen's [-@jensen] 'mobile with' --- an extension of Eugene Goffman's concept of 'single' and 'with' into the realm of mobility. Jensen argues that “in the mundane and
+While Spinney focuses on the solitary embodied experience of bicycling, @mcilvenny describes formations that bicyclists can assume in order to sustain a conversation. His work is based on Jensen's [-@jensen] 'mobile with' --- an extension of Erving Goffman's concept of 'single' and 'with' into the realm of mobility. Jensen argues that “in the mundane and
 ordinary everyday life we make multiple ‘temporary congregations’ as we are slipping in and out
 of different ‘mobile withs’ ... ‘Mobile withs’ might be exemplified by groups of recreational
-runners or cyclists” [-@jensen, p. 341]. McIlvenny captures "different vélomobile formations-in-action" using video recordings and . His notion of *vélomobile formations-in-action* build a solid base for the description of temporary bicycling formations, in the following only 
- 
+runners or cyclists” [-@jensen, p. 341]. McIlvenny captures "different vélomobile formations-in-action" using video recordings and analyses them, creating a portfolio of different formations used to sustain social interaction between two or more people on bikes. His notion of *vélomobile formations-in-action* build a solid base for the description of the phenomenon that this research proposal addresses. Within this framework of 'mobile with', indirect interaction and formations-in-action exists an interaction design space that is largely unexplored.
 
-'formation' is thus also the term being used in this document to describe a 'group' or 'flock' of bicyclists on the road.
+Especially of interest to my research is also the work done by Katrina Jungnickel and Rachel Aldred. Their research [e.g. @aldred2010; @aldred2012; @jungnickel_cyclings_2014] explores the cultural and societal sides of bicycling: the relationship between the riders and other riders, their ride, the environment, and the socio-political space. It also gives an extensive account of the diversity of bicycling cultures in different British cities.
 
-Within this framework of 'mobile with', indirect interaction and formations exists a design space.
-
-
-* TODO: Kat Jungnickel, Rachel Aldred
-
-Wie war das mit indirect und direct interaction?
-
+Promising seems also the notion of carrying over the *flaneur* to the world of bicycling. It is approached most prominently by @flaneur, but is also adapted by @esbjornsson to motorcycling.
 
 ## Tangents to the design space
 
-* vllt was von wegen 'design for serendipity, encounters'? 
-* Esbjörnsson et al Motorcycling & social interaction @esbjornsson
-* Cromwell und sein social act of bicycling @cromwell
+Looking at mobility, one can see many smartphone apps that aim to enhance the ride experience. While most of them are targeted towards recreational bicycling (e.g. Strava, Map My Ride, Runtastic) and some towards activism (e.g. Bikes vs. Cars, Charity Miles, Social Cyclist), it is hard to find examples that touch on sociality or serendipity in-action.
+
+@esbjornsson describe Hocman, a mobile application that fosters interaction between motorcyclists to complement random encounters on the road. @cromwell approaches indirect social interaction between bicyclists (which include random vélomobile formations-in-action) from a perspective of landscape architecture, designing bicycle facilities to enhance the social experience of everyday bicycling. However, the interaction design space seems largely unexplored.
 
 # Methodology
 
@@ -94,43 +87,56 @@ While in the beginning the work will be rather explorative, I plan on working cl
 
 # Collaboration
 
-<!-- > Here all stakeholders are described, including their role in the project. Included are issues of recruitment of participants and communication channels that will be used. Names and positions of key people should be included. -->
+While there are no concrete external stakeholders in this project, my research addresses the larger Malmö bicycling community.
 
+During the preparation of this research plan, I have created a (metaphorical) map of the Malmö bycicling landscape. It includes bike stores, repair shops, bicycle-focused meeting points such as cafés^[Examples are Solde, Musette and Bianchi], community initiatives such as Cykelköket, as well as bicycle clubs and community-based movements^[For example Slow Roll Malmö, CK Avanti, Pista Malmö and several Facebook groups].
 
-As my research focuses on everyday cycling, it is important to work with everyday cyclists, commuters mainly.
-
-* Sigma Connectivity
-* IOTAP - ECOS - Jonas Lowgren
-* Andere Personen:
-  - Francesco
-  - Roberto
+Getting to know Malmö's bicycling culture allows me to adapt my design activities, and gives me access to potential participants for workshops, design experiments, and user testing.
 
 # Expected results
 
-- How to prototype IoT stuff in a velomobile environment
-- tempCycForm
-- a method of conveying the social cycling experience
-- prototypes of ways/things to encourage social interaction in tempCycForm, e.g. the 'ride with me im social' thingie
+With this research, I aim to contribute to the already existing body of knowledge on bicycling as a social practice. Most literature originates in the social sciences, and a designerly account seems overdue. Instead of barely describing the phenomenon, interaction design can exploit it and produce knowledge that allows us to design for the enjoyment of everyday bicycling.
 
-<!-- > Here you should describe expected results and outcomes of the project. Contributions can be related to other fields or stakeholder organizations/communities, but the focus should be on knowledge contributions to the field of interaction design research.
-> “Internally”, you should suggest what knowledge you expect to produce and consider how it can be seen as a contribution to the academic interaction design community. You should also address how your expected knowledge contributions relate to different forms of knowledge such as reflective analytical knowledge contributions, designed artifacts or methodological contributions.
-> “Externally”, contributions can be discussed in terms of what they might mean outside of the academic interaction design community. This can be in terms of, e.g., use qualities, market effects or societal changes. -->
+During my research I will carry out design experiments. Some of these experiments might yield artefacts that encourage or make use of social interaction in random vélomobile formations-in-action. These artefacts might be relevant to external communities, namely the bicycling community of Malmö (and maybe beyond). The artefacts may stand for themselves, or act to enhance an existing bicycling culture, such as built by the Slow Roll group in Malmö.
+Other experiments might lead to less materialised design knowledge. This design knowledge will compose the final thesis document. I expect to learn how to efficiently prototype in a vélomobile environment that is beyond any designer's control. I also expect to design a method that allows me to represent and convey the phenomenon at hand to others. This method will most certainly make use of videography, but might be multi-modal as well.
 
 # Activity plan, schedule
 
-Milestones:
+Design is an iterative process
+With my background in software engineering, I have adapted an *agile* mindset of project management, along with methods like Kanban and SCRUM. This design research project is, however, quite different from a typical software engineering project. All I want to carry over from the agile mindset to this project is the notion of *embracing change*, as I will constantly have to reflect on the current state of the project, and the terminology of *sprints*. A sprint is, simply put, an arbitrary period of time at which beginning you define what is to be done within the spring, and at which ending you look what you have achieved. For this project I will plan with week-long sprints.
 
-- 75% thingie on 1 may
+The project has a few pre-defined dates of importance:
 
-Activity plan:
+March 30, 2015
+  ~ Start of the project (kick-off sprint 1)
 
-- design of experiments
-- design of workshops
-- doing se workshops
-- 
+May 1, 2015
+  ~ Hand in a 75% version of the report (end of sprint 5)
 
-<!-- > You identify the key milestones of the planned project, and the main activities needed to reach the milestones. The activities are synthesized in a schedule covering the project period, and ideally it is also presented in visual form (using, e.g., a Gantt diagram).
-> The schedule should also indicate critical paths and potential bottlenecks. Depending on the nature of the planned project, it may be necessary to provide a more detailed schedule for initial phases and then leave the rest of the schedule at a more general level. -->
+May 25, 2015
+  ~ Hand in the final report (kick-off sprint 9)
+
+June 2-3, 2015
+  ~ Present and defend your work in a seminar (sprint 10)
+
+\begin{figure*}[!ht]
+  \centering
+  \hspace*{-31.5mm}%*
+  \includegraphics[keepaspectratio,width=\paperwidth]{../schedule-clean.pdf}
+  \caption{Activity plan}
+\end{figure*}
+
+Figure 2 shows a chart of the activities to be carried out within the individual sprints. Due to the agile nature of the project approach, this chart is only to be seen as tentative and not final (*embracing change*). The overlap of different activities is intentional. The chart lists the following activities:
+
+- Ethnographic study
+- Design of experiments
+- Design of workshops
+- Carrying out workshops and experiments
+- Write
+- Edit, revise, finalise
+- Prepare presentation
+
+It can be seen that for the actual project work, there are only 8 weeks of time scheduled (or 8 sprints). This is a potential risk, further listed in section \ref{potential-risks}. Thus, the first three activities (ethnographic study, design of experiments, design of workshops) are scheduled with a little buffer and are expected to be finished earlier than scheduled. However, depending on their nature, some experiments might be long-running and might extend well into the writing phase. This schedule does not account for any corrections to be carried out after the presentation.
 
 # Pilot experiment
 
@@ -174,10 +180,16 @@ Both videos start with a solo ride and the full 30 FPS. Thus, the transitions be
 # Potential risks
 
 <!-- > Potential risks area often overlooked when setting up research projects. Try to calculate potential risks in the project and if possible reflect on corrective actions for overcoming the identified risks. -->
+<!--
+The most obvious risk in this project is presented by the time constraints of about eight weeks. 
+
+- wegen der kurzen zeit: kontakte aufbauen dauert lang, events finden nicht statt
+- niemand ist interessiert in das phenomenon
+- in malmo ist die kultur schwierig und nix laesst sich implementieren
 
 - People do not like to be in a formation with strangers
 - they do not like to interact with strangers
 - tempCycForm is not a thing, or is hard to design for
 - might have to shift focus to intentional cycling formations, then more referring to Paul McIlvenny
 - might have to shift focus to other encounters, such as 'meeting' or 'passing', more looking into Esbjörnsson et al.
-
+-->

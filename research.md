@@ -63,3 +63,11 @@ Bicycling in Malmo
 
 - Fredrik Gertten (bikes vs cars)
 - Bertil Björk
+
+Wilde Ideen
+===========
+
+1. Ein Bumper-Sticker, oder eine App, oder eine Weste o.a. die sagt "Ride with me, I'm social"
+"follow me"
+
+http://www.svt.se/nyheter/regionalt/sydnytt/har-rullas-europas-langsta-falafel
