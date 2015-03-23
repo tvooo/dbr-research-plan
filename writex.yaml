@@ -1,6 +1,7 @@
 template: tvooo-article
 abstract: false
-titlePage: title.tex 
+titlePage: title.tex
+preamble: preamble.tex
 bibtex: true
 engine: xelatex
 document:
