@@ -1,0 +1,9 @@
+- Why focus only on interactivity DURING the live stream/event? What about engagement outside, for example the guy on reddit doesn’t seem to be involved in his community. Are you not interested in this?
+- You are a gamer yourself, and I suppose you are also part of communities around streamers that you mentioned. 1. What do you as a gamer would like to get out of more interactivity with your audience? 2. What would you as audience like to get out of more interactivity with the streamer?
+- I find it really interesting that video games, classically interactive, have passive audiences, and tv vice-versa. So, can you learn from interactive TV?
+- There might not be much in the area of “online participatory audiences”, but maybe look into adjacent areas:
+	- Audience engagement
+- I think you identified the risks quite well. Only thing, with anything community-involved things can sometimes take a while to get taken on. Do you think the time constraint is a risk here, or do you think if you’ve designed a stream it’s enough to test it in situ and not look how the community around it reacts/gets involved over time?
+- Do you think interactive live streams are more interesting for smaller groups of followers, or more for the big guys?
+- Technically, how does the interactivity look? Are you guys all in a big conference call?
+- A recording of the stream(s) would have been nice
